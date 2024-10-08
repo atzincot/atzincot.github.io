@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atzincot.github.io/sitemap.html.gz
+Sitemap: https://atzincot.github.io/app/sitemap.html.gz
+Sitemap: https://atzincot.github.io/assets/sitemap.html.gz
+Sitemap: https://atzincot.github.io/css/sitemap.html.gz
+Sitemap: https://atzincot.github.io/includes/sitemap.html.gz
+Sitemap: https://atzincot.github.io/item/sitemap.html.gz
+Sitemap: https://atzincot.github.io/src/sitemap.html.gz
